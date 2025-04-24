@@ -12,6 +12,6 @@ Gain a foundational understanding of FreeRTOS concepts and apply them hands-on b
 
 2. Learing Que.pdf.
    This small pdf to understand how the queue is queue created and how to read & write the data inside the queue. 
-4.   
+   
 
 
